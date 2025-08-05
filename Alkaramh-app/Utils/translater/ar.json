@@ -1,0 +1,206 @@
+{
+    "dashboard": {
+        "home": "الرئيسية",
+        "wishlist": "المفضلة",
+        "cart": "السلة",
+        "profile": "الحساب"
+    },
+    "Category": {
+        "title": "استكشاف الفئات",
+        "See all": "عرض الكل"
+    },
+    "Search": {
+        "title": "ابحث عن صفقات ومنتجات والمزيد",
+        "Cancel": "إلغاء"
+    },
+    "Filter":{
+        "Filters and Sorting": "المرشحات والفرز",
+        "Filter": "المرشح",
+        "Previously Ordered": "مسبقا المطلوب",
+        "Ratings 4.0+": "تقييم 4.0+",
+        "Great Offers": "العروض العظيمة"
+    },
+    "Product":{
+        "RECOMMENDED FOR YOU": "موصى به لك",
+        "See all": "عرض الكل"
+    },
+    "home": {
+        "title": "مرحبا",
+        "description": "هذه الشاشة الرئيسية"
+    },
+    "cart": {
+        "title": "عربة التسوق",
+        "empty": "عربة التسوق فارغة",
+        "checkout": "الدفع",
+        "ExploreNow":"استكشاف الآن",     
+       "Looks like you haven’t add any items to the cart":"يبدو أنك لم تضاف أي منتجات إلى السلة بعد"
+    },
+    "Shop":{
+        "title": "المتجر",
+        "empty": "لا يوجد منتجات في المتجر",
+        "IN THE SPOTLIGHT": "في المركز",
+        "SHOP NOW": "",
+        " Last 100 Orders Without Complaints":"",
+        "Bestseller":"",
+        "Frequently Reordered":""
+        
+    },
+    "profile": {
+        "Account Settings": "إعدادات الحساب",
+        "Address Book": "دفتر العناوين",
+        "Your Orders": "طلباتي",
+        "Orders": "الطلبات",
+        "More": "المزيد",
+        "Wishlist": "المفضلة",
+        "Personal Information": "المعلومات الشخصية",
+        "About Us": "عن الشركة",
+        "Order History": "سجل الطلبات",
+        "Check App Updates": "تحديث التطبيق",
+        "Help": "المساعدة",
+        "Notification Preferences": "تفضيلات الإشعارات",
+        "Help & Support": "الدعم والمساعدة",
+        "Settings": "الإعدادات",
+        "Language": "اللغة",
+        "Logout": "تسجيل الخروج",
+        "Order Summary": "ملخص الطلب",
+        "Order Details": "تفاصيل الطلب",
+        "profile": "الحساب",
+        "guestRestrictedTitle": "وضع الضيف",
+"guestRestrictedMsg": "يرجى تسجيل الدخول أو إنشاء حساب للوصول إلى هذه الميزة."
+
+    },
+    "addressbook": {
+        "title": "دفتر العناوين",
+        "addAddress": "إضافة عنوان",
+        "editAddress": "تعديل العنوان",
+        "deleteAddress": "حذف العنوان",
+        "address": "العنوان"
+    },
+    "ProductInfo": {
+        "title": "تفاصيل المنتج",
+        "description": "وصف المنتج",
+        "addCart": "إضافة إلى السلة",
+        "buyNow": "شراء الآن",
+        "Custom": "مخصص",
+        "Custom quantity": "كمية مخصصة",
+        "Enter quantity": "أدخل الكمية",
+        "Add to cart": "إضافة إلى السلة",
+        "Buy Now": "شراء الآن",
+        "Variants": "المتغيرات",
+        "Description": "الوصف",
+        "Choose Quantity": "اختر الكمية",
+        "Go to Cart":"انتقل إلى سلة التسوق"
+    },
+    "Notification": {
+        "title": "الإشعارات",
+        "Don't miss a beat": "لا تفوت أي علامة",
+        "Get notified about Due date , discounts and deals": "اشعارات عن الموعد المنتهي , الخصم والعروض",
+        "Enable Now": "تمكين الآن",
+        "remind me later": "تذكرني لاحقا",
+        "Enable Notifications": "تمكين الإشعارات"
+    },
+    "MyWishlist": {
+        "title": "المفضلة",
+        "empty": "لا يوجد منتجات في المفضلة"
+    },
+    "Cart": {
+        "title": "السلة",
+        "empty": "لا يوجد منتجات في السلة",
+        "checkout": "الدفع",
+        "Your Order": "طلبي",
+        "continueShopping": "استمرار التسوق",
+        "Looks": "يبدو أنك لم تضاف أي عناصر إلى السلة بعد",
+        "Explore Now": "استكشاف الآن",
+        "Add to Cart": "إضافة إلى السلة",
+        "Remove": "إزالة",
+        "Quantity": "الكمية",
+        "Price": "السعر",
+        "Total": "المجموع",
+        "Checkout": "الدفع"
+    },
+    "auth": {
+        "loginTitle": "مرحبا بعودتك!\nسجل الدخول للمتابعة",
+        "signupTitle": "إنشاء حساب",
+        "emailPlaceholder": "أدخل البريد الإلكتروني",
+        "passwordPlaceholder": "أدخل كلمة المرور",
+        "namePlaceholder": "أدخل الاسم",
+        "continue": "استمرار",
+        "signup": "تسجيل الدخول",
+        "toggleToSignup": "ليس لديك حساب؟ سجل الدخول",
+        "toggleToLogin": "لديك حساب؟ تسجيل الدخول",
+        "or": "أو",
+        "google": "استمرار باستخدام جوجل",
+        "apple": "استمرار باستخدام آبل",
+        "footerLogin": "باستمرار، يقبل الاستخدام التلقائي لشروطنا والخصوصية وسياسة الكوكيز.",
+        "footerSignup": "بتسجيل الدخول، يقبل الاستخدام التلقائي لشروطنا والخصوصية وسياسة الكوكيز.",
+        "phonePlaceholder": "أدخل رقم الهاتف",
+"invalidQatarPhone": "أدخل رقم هاتف قطري صحيح"
+    },
+    "manageAddress": {
+        "My Address Book": "دفتر العناوين",
+        "add New Address": "إضافة عنوان جديد",
+        "edit Address": "تعديل العنوان",
+        "delete Address": "حذف العنوان",
+        "address": "العنوان",
+        "Use My Current Location": "استخدام الموقع الحالي",
+        "Street": "الشارع",
+        "City": "المدينة",
+        "Country": "الدولة",
+        "Save Address": "حفظ العنوان",
+        "Cancel": "إلغاء",
+        "Are you sure you want to delete this address?": "هل أنت متأكد من حذف هذا العنوان؟",
+        "Delete": "حذف",
+        "Update Address": "تحديث العنوان",
+        "Confirm": "تأكيد",
+        "No addresses found": "لا يوجد عناوين"
+    },
+    "Checkout": {
+        "title": "الدفع",
+        "Pay with": "الدفع باستخدام",
+        "debit card": "بطاقة الدفع",
+        "credit card": "بطاقة الائتمان",
+        "cash on delivery": "الدفع عند الاستلام",
+        "Price Details": "تفاصيل السعر",
+        "Total": "المجموع",
+        "Place Order": "طلب الطلب",
+        "Basket Total": "إجمالي السلة",
+        "Delivery Fee": "رسوم التوصيل",
+        "apple pay":"الدفع بواسطة"
+    },
+    "LoginWithPhone":{
+        "title": "لنبدأ ب\nالبريد الإلكتروني الخاص بك",
+        "placeholder": "أدخل البريد الإلكتروني الخاص بك",
+        "subtext": "سوف نرسل لك رسالة نصية",
+        "continue": "استمرار",
+        "or": "أو",
+        "google": "تابع مع جوجل",
+        "apple": "تابع مع أبل",
+        "footer": "من خلال الاستمرار، فإنك توافق تلقائيًا على\nالشروط والأحكام وسياسة الخصوصية وسياسة ملفات تعريف الارتباط.",
+        "switchLang": "English",
+        "skipForNow": "تخطي الآن"
+    },
+    "Otp":{
+        "title": "أدخل الرمز المرسل إلى رقم هاتفك المحمول",
+        "subtext":"لقد أرسلنا الرمز إلى",
+        "resend": "إعادة الإرسال",
+        "verify": "التحقق",
+        "enterCode": "أدخل الرمز",
+        "resendCode": "إعادة الإرسال",
+        "verifyCode": "التحقق"
+       
+
+    },
+    "LanguageSwitch":{
+        "Restart Required":"يلزم إعادة التشغيل",
+        "The app will restart to apply language changes.":"سيتم إعادة تشغيل التطبيق لتطبيق تغييرات اللغة.",
+        "OK":"موافق",
+        "Cancel":"إلغاء",
+        "title": "اللغة",
+        "English": "الانجليزية",
+        "Arabic": "العربية",
+        "switchLang": "English",
+        "back": "العودة"
+    }
+
+
+}

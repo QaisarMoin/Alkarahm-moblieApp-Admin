@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "Alkarmh",
+    "owner": "quwe",
+    "slug": "alkaramah",
+    "version": "4.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hamad.alkaramh",
+      "configuration": "Debug",
+      "buildNumber": "6"
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.hamad.alkaramh"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "runtimeVersion": "4.0",
+    "updates": {
+      "url": "https://u.expo.dev/228f3dd2-0d97-434a-b8df-97fc33ddc4bc"
+    },
+    "plugins": [
+      "expo-localization",
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "iosUrlScheme": "com.googleusercontent.apps.825727174745-embgb2o5vmckptpvs6me1t2d9sf4kr46"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a71937ca-3d35-4696-a6c1-e6e492bba10d"
+      }
+    }
+  }
+}
